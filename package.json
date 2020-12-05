@@ -1,0 +1,29 @@
+{
+  "name": "ipfs-dag-jose",
+  "version": "0.0.1",
+  "description": "Running instance of an IPFS node encoded with Ceramic Networks DAG-JOSE codec for IPLD standard.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlanVegaDecentralize/IPFS-DAG-JOSE.git"
+  },
+  "keywords": [
+    "IPFS",
+    "DAG-JOSE",
+    "Typescript",
+    "Decentralized"
+  ],
+  "author": "Alan Vega",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlanVegaDecentralize/IPFS-DAG-JOSE/issues"
+  },
+  "homepage": "https://github.com/AlanVegaDecentralize/IPFS-DAG-JOSE#readme",
+  "dependencies": {
+    "ipfs": "^0.52.2",
+    "typescript": "^4.1.2"
+  }
+}
