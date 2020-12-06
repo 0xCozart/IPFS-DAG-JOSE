@@ -27,7 +27,8 @@
   "homepage": "https://github.com/AlanVegaDecentralize/IPFS-DAG-JOSE#readme",
   "dependencies": {
     "dag-jose": "^0.3.0",
-    "ipfs": "^0.52.2",
+    "dotenv": "^8.2.0",
+    "ipfs-core": "^0.3.0",
     "multiformats": "^3.0.3"
   },
   "devDependencies": {
